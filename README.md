@@ -34,11 +34,12 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="40"/>
     
 </span>
-
+</br></br>
 
 <a href="https://github.com/KobiSaada/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KobiSaada&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+
 <a href="https://github.com/KobiSaada/github-readme-stats">
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobiSaada&layout=compact&theme=material-palenight" />
