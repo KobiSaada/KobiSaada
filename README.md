@@ -14,7 +14,7 @@ Hi, I'm kobi saada, a Student of Computer Science(3rd).
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KobiSaada.KobiSaada)
 
 <a href="https://github.com/KobiSaada/stargazers"><img src="https://img.shields.io/github/stars/KobiSaada" alt="Stars Badge"/></a>
-<a href="https://github.com/KobiSaada/network/members"><img src="https://img.shields.io/github/forks/KobiSaada" alt="Forks Badge"/></a>
+<a href="https://github.com/KobiSaada/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/KobiSaada/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/KobiSaada/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/KobiSaada/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/KobiSaada/awesome-github-profile-readme?color=2b9348"></a>
