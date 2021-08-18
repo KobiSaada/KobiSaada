@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm kobi saada, a Student of Computer Since(3rd).
+Hi, I'm kobi saada, a Student of Computer Science(3rd).
 
 - 🔭 I’m currently learning HTML.
 - 💬 Ask me about anything [here](https://github.com/KobiSaada/KobiSaada/issues)
