@@ -14,7 +14,7 @@ Hi, I'm kobi saada, a Student of Computer Science(3rd).
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KobiSaada.KobiSaada)
 
 [![GitHub stars](https://img.shields.io/github/stars/KobiSaada?label=Stars&style=social)](https://github.com/KobiSaada)
-
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/KobiSaada/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/KobiSaada/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/KobiSaada/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
