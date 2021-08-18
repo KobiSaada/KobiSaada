@@ -55,6 +55,7 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
+    <img align="left" src="imagens/linux.jpg" style="padding: 1%" /></a>
     
 </span>
         
