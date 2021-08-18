@@ -37,10 +37,7 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 </a>
          
 <h4 align="left">Tools:</h3>
-   ![7199121](https://user-images.githubusercontent.com/73976733/129941861-a4fb9ac8-45f3-4234-ab2d-95369494fee9.png)
-
-
-        
+   
 <span>
   <code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
  <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
