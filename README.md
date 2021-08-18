@@ -28,12 +28,13 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="40"/>
 </span>
-
 <h4 align="left">Data Bases:</h3>
 <span>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" height="40"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="40"/>
+    
 </span>
+
 
 <a href="https://github.com/KobiSaada/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KobiSaada&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
