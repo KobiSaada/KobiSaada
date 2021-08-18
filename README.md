@@ -58,7 +58,8 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     
 </span>
         
-    **Version Control**
+**Version Control**
+        
 <a href="https://git-scm.com">
   <img
     alt="Git"
