@@ -27,11 +27,3 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobiSaada&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/KobiSaada/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobiSaada&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/KobiSaada/KobiSaada.github.io">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KobiSaada&repo=KobiSaada.github.io&theme=material-palenight" />
-</a>
