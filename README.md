@@ -46,15 +46,15 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
  <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
-    height="80"
-    width="80"
+    height="40"
+    width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
 </a>
     <a href="https://ubuntu.com">
   <img 
     alt="Ubuntu"
-    height="80"
-    width="80"
+    height="40"
+    width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
     
@@ -65,15 +65,15 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 <a href="https://git-scm.com">
   <img
     alt="Git"
-    height="80"
-    width="80"
+    height="40"
+    width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
 </a>
 <a href="https://github.com">
   <img
     alt="Github"
-    height="80"
-    width="80"
+    height="40"
+    width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
 </a>
          
