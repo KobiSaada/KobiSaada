@@ -37,6 +37,8 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 </a>
          
 <h4 align="left">Tools:</h3>
+    ![7199121](https://user-images.githubusercontent.com/73976733/129941681-7460b2c9-2a9f-48ae-bab3-a2f14ea47187.png)
+
         
 <span>
   <code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
@@ -55,7 +57,6 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
- ![7199121](https://user-images.githubusercontent.com/73976733/129941681-7460b2c9-2a9f-48ae-bab3-a2f14ea47187.png)
 
     
 </span>
