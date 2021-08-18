@@ -41,6 +41,8 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 <h4 align="left">Tools:</h3>
         
 <span>
+  <code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
+ <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
  <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
@@ -58,7 +60,7 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     
 </span>
         
-**Version Control**
+**Version Control:**
         
 <a href="https://git-scm.com">
   <img
