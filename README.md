@@ -11,6 +11,7 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 <h3> 📫 Contact Me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-kobisaada054@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kobisaada054@gmail.com)](mailto:kobisaada054@gmail.com)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KobiSaada.KobiSaada)
 
 ![visitors](https://visitor-badge.glitch.kobisaada/badge?page_id=page.id)
 
