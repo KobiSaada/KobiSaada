@@ -33,12 +33,13 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
         <a href="https://www.javascript.com/">
   <img
     alt="JavaScript"
-    height="80"
-    width="80"
+    height="40"
+    width="40"
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/javascript.svg" />
 </a>
          
-         <h4 align="left">Tools:</h3>
+<h4 align="left">Tools:</h3>
+        
 <span>
  <a href="code.visualstudio.com/">
   <img 
@@ -56,21 +57,21 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 </a>
     
 </span>
+        
     **Version Control**
-
 <a href="https://git-scm.com">
   <img
     alt="Git"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/KobiSaada/KobiSaada/master/assets/git-original.svg" />
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/git-original.svg" />
 </a>
 <a href="https://github.com">
   <img
     alt="Github"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/KobiSaada/KobiSaada/master/assets/github-original.svg" />
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
 </a>
          
 </span>
