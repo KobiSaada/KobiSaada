@@ -15,6 +15,7 @@ Hi, I'm kobi saada, a Student of Computer Science(3rd).
 
 [![GitHub stars](https://img.shields.io/github/stars/KobiSaada?label=Stars&style=social)](https://github.com/KobiSaada)
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/KobiSaada/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/KobiSaada/stargazers"><img src="https://img.shields.io/github/stars/KobiSaada" alt="Stars Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/KobiSaada/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/KobiSaada/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/KobiSaada/awesome-github-profile-readme" alt="Issues Badge"/></a>
