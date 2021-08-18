@@ -13,8 +13,6 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
 [![Gmail Badge](https://img.shields.io/badge/-kobisaada054@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kobisaada054@gmail.com)](mailto:kobisaada054@gmail.com)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KobiSaada.KobiSaada)
 
-![visitors](https://visitor-badge.glitch.kobisaada/badge?page_id=page.id)
-
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/KobiSaada/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/KobiSaada/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/KobiSaada/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
