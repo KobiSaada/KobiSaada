@@ -35,24 +35,24 @@ Hi, I'm kobi saada, a Student of Computer Since(3rd).
     alt="JavaScript"
     height="80"
     width="80"
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/javascript.svg" />
 </a>
          
          <h4 align="left">Tools:</h3>
 <span>
-  <a href="code.visualstudio.com/">
+ <a href="code.visualstudio.com/">
   <img 
     alt="VS Code"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/KobiSaada/KobiSaada/master/assets/visualstudio-plain.svg" />
-      <a href="https://ubuntu.com">
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/visualstudio-plain.svg" />
+</a>
+    <a href="https://ubuntu.com">
   <img 
     alt="Ubuntu"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/KobiSaada/KobiSaada/master/assets/ubuntu-plain.svg" />
-</a>
-<a href="https://slack.com">
+    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/ubuntu-plain.svg" />
 </a>
     
 </span>
