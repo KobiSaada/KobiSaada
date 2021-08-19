@@ -2,7 +2,7 @@
 ### Hi there, I'm [Kobi!](https://KobiSaada.github.io) 👋
 
 
-www.linkedin.com/in/kobi-saada-5221b9219
+
 Hi, I'm kobi saada a Student of Computer Science(3nd) At Ariel University.
 
 - 🔭 I’m currently learning HTML.
@@ -10,8 +10,7 @@ Hi, I'm kobi saada a Student of Computer Science(3nd) At Ariel University.
 
 
 <h3> 📫 Contact Me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/kobi-saada-5221b9219/)](http://www.linkedin.com/in/kobi-saada-5221b9219)
-
+<a href="https://www.linkedin.com/in/KobiSaada/"><img src="https://img.shields.io/badge/-Abhinandan%20Trilokia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/KobiSaada/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 [![Gmail Badge](https://img.shields.io/badge/-kobisaada054@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kobisaada054@gmail.com)](mailto:kobisaada054@gmail.com)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KobiSaada.KobiSaada)
 
