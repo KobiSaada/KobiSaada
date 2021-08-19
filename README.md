@@ -10,7 +10,7 @@ Hi, I'm kobi saada a Student of Computer Science(3nd) At Ariel University.
 
 
 <h3> 📫 Contact Me:</h3>
-<a href="https://www.linkedin.com/in/KobiSaada/"><img src="https://img.shields.io/badge/-Kobi%20Saada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/KobiSaada/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+<a href="https://www.linkedin.com/in/kobi-saada-5221b9219/"><img src="https://img.shields.io/badge/-Kobi%20Saada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/kobi-saada-5221b9219/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 
 [![Gmail Badge](https://img.shields.io/badge/-kobisaada054@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kobisaada054@gmail.com)](mailto:kobisaada054@gmail.com)
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KobiSaada.KobiSaada)
