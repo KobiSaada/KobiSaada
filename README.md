@@ -3,9 +3,9 @@
 
 
 
-Hi, I'm kobi saada a Student of Computer Science(3rd) At Ariel University.
+Hi, I'm kobi saada a Student of Computer Science(3rd)Year At Ariel University.
 
-- 🔭 I’m currently learning JS.
+- 🔭 I’m currently learning IPCV.
 - 💬 Ask me about anything [here](https://github.com/KobiSaada/KobiSaada/issues)
 
 
