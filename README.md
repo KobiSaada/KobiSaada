@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm kobi saada a Student of Computer Science(3nd) At Ariel University.
+Hi, I'm kobi saada a Student of Computer Science(3rd) At Ariel University.
 
 - 🔭 I’m currently learning JS.
 - 💬 Ask me about anything [here](https://github.com/KobiSaada/KobiSaada/issues)
