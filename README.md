@@ -3,7 +3,7 @@
 
 
 
-Hi, I'm kobi saada a Student of Computer Science(3rd)Year At Ariel University.
+Hi, I'm kobi saada a Computer Science Student(3rd)Year At Ariel University.
 
 - 🔭 I’m currently learning IPCV.
 - 💬 Ask me about anything [here](https://github.com/KobiSaada/KobiSaada/issues)
