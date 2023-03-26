@@ -23,7 +23,7 @@ Hi, I'm kobi saada a Computer Science Student(3rd)Year At Ariel University.
 <a href="https://github.com/KobiSaada/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/KobiSaada/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 
-**Languages and Tools:**  
+**Languages:**  
 
 <span> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/>
