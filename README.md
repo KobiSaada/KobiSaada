@@ -95,8 +95,8 @@ Hi, I'm kobi saada a Computer Science Student(3rd)Year At Ariel University.
     src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" />
 </a>
          
-
-
+<br><br/>
+<span/>
 <a href="https://github.com/KobiSaada/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KobiSaada&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
